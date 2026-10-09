@@ -1,0 +1,6 @@
+{
+  "name": "COSMOS - 3D Solar System & Universe Builder",
+  "description": "An interactive 3D space exploration and solar system sandbox with realistic orbital physics, celestial body inspector, and custom star system builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
